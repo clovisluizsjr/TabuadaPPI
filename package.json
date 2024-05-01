@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/MariaLedier/TabuadaPPI/issues"
   },
-  "homepage": "https://github.com/MariaLedier/TabuadaPPI#readme"
+  "homepage": "https://github.com/MariaLedier/TabuadaPPI#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
