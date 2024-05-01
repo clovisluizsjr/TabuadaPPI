@@ -1,0 +1,27 @@
+{
+  "name": "tabuadappi",
+  "version": "1.0.0",
+  "description": "Projeto Tabuada da disciplina de PPI",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariaLedier/TabuadaPPI.git"
+  },
+  "keywords": [
+    "node",
+    "http",
+    "ppi",
+    "tabuada"
+  ],
+  "author": "Maria Clara Ledier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MariaLedier/TabuadaPPI/issues"
+  },
+  "homepage": "https://github.com/MariaLedier/TabuadaPPI#readme"
+}
