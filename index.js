@@ -1,4 +1,5 @@
 import express from "express";
+//alteração
 
 const host = "0.0.0.0"; // ip
 const porta = 4700; // porta para acesso no localhost
